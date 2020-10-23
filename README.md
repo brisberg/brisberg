@@ -7,6 +7,8 @@
 <details>
 <summary>📈 GitHub Stats</summary>
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=brisberg&show_icons=true" alt="brisberg" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brisberg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
