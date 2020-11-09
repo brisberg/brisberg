@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Amber](https://github.com/brisberg/amber) (for [Screeps](https://screeps.com/)), Fantasy Advisor, and [Twine Games](https://github.com/brisberg/twine-games)
+- 🔭 I’m currently working on [Amber](https://github.com/brisberg/amber) (for [Screeps](https://screeps.com/)), Fantasy Advisor, and [Twine Games](https://github.com/brisberg/twine.brisberg.dev)
 - 🌱 I’m currently learning React, Docker, TypeScript
 - 😄 Pronouns: he/him
 
