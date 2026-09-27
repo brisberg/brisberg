@@ -8,7 +8,6 @@ More at **[brisberg.dev](https://brisberg.dev)** — working notes, blog, recipe
 <summary>📈 Latest Projects</summary>
 
 <br>
-### Building
 
 - **[fantasy-advisor](https://github.com/brisberg/fantasy-advisor)** — TypeScript agent that reads Yahoo and Sleeper leagues, aggregates projections, and proposes lineup changes behind a human review gate.
 - **[brisberg.github.io](https://github.com/brisberg/brisberg.github.io)** — brisberg.dev. One Hugo site, own layouts, no theme, version pinned in one file.
